@@ -1,0 +1,15 @@
+streamlit
+numpy
+plotly
+pandas
+seaborn
+matplotlib
+sklearn
+keras
+validate_email_address
+re
+os
+deta
+dotenv
+
+
