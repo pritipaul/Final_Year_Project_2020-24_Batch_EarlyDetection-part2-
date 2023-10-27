@@ -8,8 +8,6 @@ matplotlib
 sklearn
 keras
 validate_email_address
-re
-os
 deta
 dotenv
 
