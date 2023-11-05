@@ -1,13 +1,13 @@
 streamlit
-speechrecognition
-numpy
 plotly
+streamlit_option_menu
 pandas
 seaborn
 matplotlib
-sklearn
+numpy
+scikit-learn
 keras
-validate_email_address
+validate-email-address
 deta
 dotenv
 
