@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 import pandas as pd
 load_dotenv(".env")
 
-# DETA_KEY = "d0msktwripg_p6T7mVAf28nxSB1HnEEcrrXUpknPAaES"
+DETA_KEY = "d0msktwripg_p6T7mVAf28nxSB1HnEEcrrXUpknPAaES"
 
 DETA_KEY = os.getenv("DETA_KEY")
 deta = Deta(DETA_KEY)
