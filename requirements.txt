@@ -10,5 +10,3 @@ keras
 validate-email-address
 deta
 python-dotenv
-
-
