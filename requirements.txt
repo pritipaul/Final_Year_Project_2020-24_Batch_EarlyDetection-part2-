@@ -9,6 +9,5 @@ scikit-learn
 keras
 validate-email-address
 deta
-dotenv
 
 
